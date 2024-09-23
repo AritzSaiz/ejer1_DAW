@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 Hola mundo
 Soy Aritz Saiz
+=======
+ 
+Hola soy Aritz Saiz
+>>>>>>> rama2
  
